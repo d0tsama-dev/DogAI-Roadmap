@@ -36,6 +36,7 @@ DogAI combines the power of AI and blockchain to provide fun, interactive, and i
 ### Objectives
 - Build the core utilities: FetchGPT, FetchDOGAI (Faucet), and FetchCalc.
 - Establish DogAI's brand and community presence.
+- Expand community engagement with Telegram bot integration.
 
 ### Completed Tasks
 #### FetchGPT
@@ -68,11 +69,28 @@ DogAI combines the power of AI and blockchain to provide fun, interactive, and i
 - Introduce impactful V2 features.
 
 ### Planned Tasks
-- [ ] Enhanced Chat Persistence
-- [ ] Enhanced FetchCalc:
+- [ ] **Enhanced Chat Persistence**
+- [ ] **Enhanced FetchCalc**:
      - Add Daily Prediction option.
-- [ ] FetchDOGAI Enhancements:
+- [ ] **FetchDOGAI Enhancements**:
     - Update logic to create token account where an address have no DogAI tokens
+- [ ] **Telegram Integration**:
+  - **Core Bot Integration**:  
+    - Implement basic commands like `/start` and `/help` to provide group-specific information and FAQs.  
+  - **FetchGPT Integration**:  
+    - Allow users to query FetchGPT directly within Telegram.  
+    - Provide inline and private query responses.  
+  - **Community Engagement**:  
+    - Use polls, quizzes, and leaderboards to encourage participation.  
+    - Add gamification with token rewards for active members.  
+  - **FetchDOGAI Integration**:  
+    - Enable `/claim <wallet>` commands for FetchDogAI claims.
+  - **FetchCalc Integration**:  
+    - `/predict <token>`: Provide token price predictions.
+    - `/dca <daily_amount> <days>`: Calculate DCA projections.
+    - `/calc <token> <amount>`: Perform custom token calculations.
+  - **Price Alerts**:  
+    - Automate DOGAI token price updates and milestone notifications.
    
 ---
 
