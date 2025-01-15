@@ -45,12 +45,12 @@ DogAI combines the power of AI and blockchain to provide fun, interactive, and i
 
 #### FetchDOGAI (Faucet)
 - ✅ Developed the DogAI faucet to distribute tokens securely using Solana blockchain.
-- ✅ Implemented anti-bot measures and a 24-hour cooldown period.
+- ✅ Implemented anti-bot measures and a cooldown period.
 - ✅ Integrated RPC services to fetch token account details and handle transactions.
 
 #### FetchCalc
 - ✅ Designed a utility to predict future token prices using the DCA model.
-- ✅ Integrated CoinGecko API for real-time SOL and DOGAI prices.
+- ✅ Integrated API for real-time SOL and DOGAI prices.
 - ✅ Implemented a projection model using constant product formulas.
 
 #### Brand and Community
