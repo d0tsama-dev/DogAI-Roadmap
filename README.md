@@ -28,7 +28,7 @@ DogAI combines the power of AI and blockchain to provide fun, interactive, and i
 - Implemented a projection model using constant product formulas.
 
 #### Brand and Community
-- Secured the domain: **dogai.gdn**.
+- Secured the domain: **https://dogai.gdn**.
 - Established social media presence: Telegram, Twitter (X), TikTok, and Instagram.
 - Published documentation for all utilities on the DogAI website.
 
