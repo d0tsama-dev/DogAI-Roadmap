@@ -23,6 +23,9 @@ Combining the power of AI and blockchain to provide fun, interactive, and innova
 
 ---
 
+![DogAI Landing Page](./landing-page.png)
+
+
 ## **Overview**
 DogAI combines the power of AI and blockchain to provide fun, interactive, and innovative tools. This roadmap outlines the milestones achieved and the vision for future development.
 
@@ -66,11 +69,10 @@ DogAI combines the power of AI and blockchain to provide fun, interactive, and i
 ### Planned Tasks
 - [ ] Enhanced Chat Persistence
 - [ ] Enhanced FetchCalc:
-    - Add Daily Prediction option.
+     - Add Daily Prediction option.
 - [ ] FetchDOGAI Enhancements:
-    - Update logic to create token account where add have no DogAI tokens
-    - Add gamification for frequent claimers.
-
+    - Update logic to create token account where an address have no DogAI tokens
+   
 ---
 
 ## **Phase 2: DefAI Development (Q3 2025)**
