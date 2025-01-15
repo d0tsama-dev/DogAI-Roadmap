@@ -1,7 +1,7 @@
 # DogAI Roadmap
 
 > **The Intelligent Companion for DeFi**  
-Combining the power of AI and blockchain to provide fun, interactive, and innovative tools for the Solana ecosystem.
+DogAI leverages the power of AI-driven insights and blockchain technology to provide innovative tools for Market Analysis and DeFAI Infrastructure, revolutionizing the Solana ecosystem.
 
 ---
 
@@ -27,33 +27,33 @@ Combining the power of AI and blockchain to provide fun, interactive, and innova
 
 
 ## **Overview**
-DogAI combines the power of AI and blockchain to provide fun, interactive, and innovative tools. This roadmap outlines the milestones achieved and the vision for future development.
+DogAI combines AI-powered tools and blockchain technology to deliver **Market Analysis** and build **DeFAI Infrastructure**, empowering users to navigate DeFi with actionable insights and innovative platforms.
 
 ---
 
 ## **Phase 0: Foundation and Early Development (Q4 2024)**
 
 ### Objectives
-- Build the core utilities: FetchGPT, FetchDOGAI (Faucet), and FetchCalc.
-- Establish DogAI's brand and community presence.
+- Build foundational tools for DeFi engagement.
+- Establish DogAI as a trusted player in the Solana ecosystem.
 
 ### Completed Tasks
-#### FetchGPT
+#### FetchGPT (DeFAI Infrastructure)
 - ✅ Created chatbot interface with dynamic OpenAI GPT-3.5 API integration.
 - ✅ Added predefined prompts for quick and engaging user interactions.
 - ✅ Integrated playful ASCII animations for a unique experience.
 
-#### FetchDOGAI (Faucet)
+#### FetchDOGAI (DeFAI Infrastructure)
 - ✅ Developed the DogAI faucet to distribute tokens securely using Solana blockchain.
 - ✅ Implemented anti-bot measures and a cooldown period.
 - ✅ Integrated RPC services to fetch token account details and handle transactions.
 
-#### FetchCalc
+#### FetchCalc (Market Analysis)
 - ✅ Designed a utility to predict future token prices using the DCA model.
 - ✅ Integrated API for real-time SOL and DOGAI prices.
 - ✅ Implemented a projection model using constant product formulas.
 
-#### Brand and Community
+#### Brand and Community (DeFAI Infrastructure)
 - ✅ Secured the domain: **[dogai.gdn](https://dogai.gdn)**.
 - ✅ Implemented X account automation for @dogai_gg to post AI-driven updates and engagement content.
 - ✅ Established social media presence: Telegram, Twitter (X), TikTok, and Instagram.
@@ -64,17 +64,17 @@ DogAI combines the power of AI and blockchain to provide fun, interactive, and i
 ## **Phase 1: Stabilization, Refinement & V2 Features (Q1–Q2 2025)**
 
 ### Goals
-- Enhance the stability and performance of core tools.
+- Enhance DogAI’s DeFAI Infrastructure and Market Analysis tools to boost community engagement and usability.
 - Introduce impactful V2 features.
 - Expand community engagement with Telegram bot integration.
 
 ### Planned Tasks
-- [ ] **Enhanced Chat Persistence**
-- [ ] **Enhanced FetchCalc**:
+- [ ] **Enhanced Chat Persistence (DeFAI Infrastructure)**
+- [ ] **Enhanced FetchCalc (Market Analysis)**:
      - Add Daily Prediction option.
-- [ ] **FetchDOGAI Enhancements**:
+- [ ] **FetchDOGAI Enhancements (DeFAI Infrastructure)**:
     - Update logic to create token account where an address have no DogAI tokens
-- [ ] **Telegram Integration**:
+- [ ] **Telegram Integration (DeFAI Infrastructure)**:
   - **Core Bot Integration**:  
     - Implement basic commands like `/start` and `/help` to provide group-specific information and FAQs.  
   - **FetchGPT Integration**:  
@@ -94,10 +94,17 @@ DogAI combines the power of AI and blockchain to provide fun, interactive, and i
    
 ---
 
-## **Phase 2: DefAI Development**
+## **Phase 2: DefAI Development (Q3 2025)**
 
 ### Goals
-Build the **Risk Scoring Dashboard** to serve as the first step toward an intelligent DeFi platform.
+Build advanced tools to solidify DogAI as a leader in **DeFAI Market Analysis**:
+
+- **Risk Scoring Dashboard**:
+  - Analyze protocols using metrics like TVL, volatility, and utilization.
+  - Provide AI-generated risk insights for informed decision-making.
+
+- **Custom Alerts**:
+  - Notify users about changes in protocol risk scores or token price trends.
 
 ---
 
