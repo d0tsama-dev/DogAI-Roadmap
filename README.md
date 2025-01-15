@@ -36,7 +36,6 @@ DogAI combines the power of AI and blockchain to provide fun, interactive, and i
 ### Objectives
 - Build the core utilities: FetchGPT, FetchDOGAI (Faucet), and FetchCalc.
 - Establish DogAI's brand and community presence.
-- Expand community engagement with Telegram bot integration.
 
 ### Completed Tasks
 #### FetchGPT
@@ -67,6 +66,7 @@ DogAI combines the power of AI and blockchain to provide fun, interactive, and i
 ### Goals
 - Enhance the stability and performance of core tools.
 - Introduce impactful V2 features.
+- Expand community engagement with Telegram bot integration.
 
 ### Planned Tasks
 - [ ] **Enhanced Chat Persistence**
