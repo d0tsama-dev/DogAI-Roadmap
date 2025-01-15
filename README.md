@@ -75,21 +75,10 @@ DogAI combines the power of AI and blockchain to provide fun, interactive, and i
    
 ---
 
-## **Phase 2: DefAI Development (Q3 2025)**
+## **Phase 2: DefAI Development
 
 ### Goals
 Build the **Risk Scoring Dashboard** to serve as the first step toward an intelligent DeFi platform.
-
-### Planned Features
-- [ ] Metrics Integration:
-  - Fetch TVL data via DefiLlama.
-  - Use Coingecko API for token price and volatility metrics.
-- [ ] Scoring Logic:
-  - Calculate risk scores based on liquidity, volatility, and other factors.
-  - Use AI to generate user-friendly insights and summaries.
-- [ ] Frontend Dashboard:
-  - Modern UI with tables and graphs for risk profiles.
-  - Sorting and filtering options for protocols.
 
 ---
 
