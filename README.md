@@ -44,7 +44,7 @@ Stay tuned for updates and progress!
 ---
 
 ## Private Repository
-The source code and detailed development of DogAI are hosted in a private repository. If you are part of the team, visit the private DogAI repo [here](https://github.com/d-tsama-dev/DogAI).
+The source code and detailed development of DogAI are hosted in a private repository. If you are part of the team, visit the private DogAI repo [here](https://github.com/d0tsama-dev/DogAI).
 
 ---
 
