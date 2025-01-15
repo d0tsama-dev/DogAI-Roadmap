@@ -55,6 +55,7 @@ DogAI combines the power of AI and blockchain to provide fun, interactive, and i
 
 #### Brand and Community
 - ✅ Secured the domain: **[dogai.gdn](https://dogai.gdn)**.
+- ✅ Implemented X account automation for @dogai_gg to post AI-driven updates and engagement content.
 - ✅ Established social media presence: Telegram, Twitter (X), TikTok, and Instagram.
 - ✅ Published documentation for all utilities on the DogAI website.
 
@@ -75,7 +76,7 @@ DogAI combines the power of AI and blockchain to provide fun, interactive, and i
    
 ---
 
-## **Phase 2: DefAI Development
+## **Phase 2: DefAI Development**
 
 ### Goals
 Build the **Risk Scoring Dashboard** to serve as the first step toward an intelligent DeFi platform.
