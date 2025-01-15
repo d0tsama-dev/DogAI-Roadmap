@@ -5,7 +5,7 @@ Combining the power of AI and blockchain to provide fun, interactive, and innova
 
 ---
 
-### **Static Badges**
+### **Badges**
 ![GitHub stars](https://img.shields.io/badge/Stars-Private-lightgrey?style=flat-square)
 ![GitHub issues](https://img.shields.io/badge/Issues-Private-lightgrey?style=flat-square)
 ![GitHub pull requests](https://img.shields.io/badge/Pull_Requests-Private-lightgrey?style=flat-square)
